@@ -1,7 +1,8 @@
 # XSS-Spotter
 XSS-Spotter is an advanced and intuitive tool specifically designed for ethical security testing. Its primary focus is on detecting Cross-Site Scripting (XSS) vulnerabilities in web applications, ensuring the protection of user data, and mitigating potential risks.
 
-Installation
+Installation:
+
 XSS-Spotter requires python3+ to install successfully. Run the following command to install the latest version:
 
 ~ git clone https://github.com/varsh1408/xss-spotter/
@@ -21,3 +22,9 @@ Clear and Informative Reporting: XSS-Spotter generates clear and informative rep
 Ethical Use and Purpose: XSS-Spotter strictly adheres to ethical principles and is meant for responsible security testing. It emphasizes the importance of discovering and mitigating XSS vulnerabilities in a professional and ethical manner, promoting the secure development and operation of web applications.
 
 User-Friendly Interface: The tool features a user-friendly interface that simplifies the process of initiating scans and reviewing the results. Users can easily input the target domain and navigate through the generated reports to understand the identified vulnerabilities and their potential impact.
+
+
+
+Made with only for educational and ethical purpose
+
+~Varshini Ramesh
