@@ -9,7 +9,7 @@ XSS-Spotter requires python3+ to install successfully. Run the following command
 
 ~ cd xss-spotter
 
-~ pip3 install -r requirements.txt
+~ pip install -r requirements.txt
 
 ~ python xss-spotter.py / python3 xss-spotter.py
  
